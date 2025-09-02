@@ -1,8 +1,10 @@
-# 概要
+# DIY MD CARTRIDGE
+
+## 概要
 メガドライブ用のフラッシュROMのカートリッジ基板です。容量は8Mbit。
 動作無保証。
 
-# ファイルの説明
+## ファイルの説明
 ・MD_CART.COMP : プリント基板データ。CADLUS X用。
 
 ・MD_WR.COMP : プリント基板データ。CADLUS X用。
@@ -11,8 +13,8 @@
 
 ・md.prg : フラッシュROM書き込みプログラム。Raspberry Pi+Pi STARTER用。
 
-# 部品リスト
-カートリッジ基板
+## 部品リスト
+### カートリッジ基板
 
 ・4Mbit フラッシュメモリ SST39SF040-70-4C-PHE
 
@@ -22,7 +24,7 @@
 
 ・積層セラミックコンデンサまたは電解コンデンサ
 
-フラッシュメモリライター
+### フラッシュメモリライター
 
 ・I/Oエキスパンダ  MCP23S17-E/SP
 http://akizukidenshi.com/catalog/g/gI-10644/
