@@ -3,6 +3,7 @@
 ## 概要
 メガドライブ用のフラッシュROMのカートリッジ基板です。容量は8Mbit。
 動作無保証。
+<img width="769" height="453" alt="Image" src="https://github.com/user-attachments/assets/1d0aa57c-2429-486c-999d-d74b166e0c87" />
 
 ## ファイルの説明
 ・MD_CART.COMP : プリント基板データ。CADLUS X用。
